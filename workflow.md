@@ -57,9 +57,11 @@
 
 ---
 
-NOTES:
+USEFUL NOTES:
 
 - [Best Practices](https://sethrobertson.github.io/GitBestPractices/)
+- [oh shit git](https://ohshitgit.com/)
+- [how to undo anything](https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git/)
 - [feature branching guide](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
 - [this workflow is mainly copied from](https://stackoverflow.com/a/14865661)
 - [for different Git merge strategies](https://www.workingsoftware.dev/which-git-merge-strategy-is-appropriate-for-our-team/)
