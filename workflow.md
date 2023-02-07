@@ -21,7 +21,7 @@
    $ git add file_name/ . (to add all files) && git commit -m "My commit massage"  /
    $ git commit -am "My feature is ready" 	(to auto stage all modified files and commit with a message).
    ```
-6. Push your branch to Github
+6. Push your branch to Github {best practice: don't do this after each commit}
    ```bash
    $ git push -u origin feature_name
    ```
