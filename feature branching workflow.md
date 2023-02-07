@@ -33,7 +33,7 @@
 
    ```bash
    $ git switch main
-   $ git merge --no-ff feature_name (--no-ff is what makes the git graph look the way you'd expect)'
+   $ git merge --no-ff feature_name (--no-ff performs merge & creates a merge commit. this makes the git graph to reflect the merge in git history)
    $ git branch -d feature_name
    $ git push -u origin main
    ```
