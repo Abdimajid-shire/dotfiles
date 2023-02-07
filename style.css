@@ -7,3 +7,7 @@ hi hi again
 body {
   height: 100vh;
 }
+
+.container {
+  background-color: red;
+}
