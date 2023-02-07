@@ -12,4 +12,5 @@ body {
   background-color: red;
   width: 50px;
   overflow: hidden;
+  border: 50px;
 }
